@@ -1,5 +1,6 @@
-// Airps.cpp : Software Engineering Group Project
-//
+// Airps.cpp : Software Engineering Project
+// Chady Doumit
+// 12/10/2023
 
 #include <iostream>
 #include <iomanip>
